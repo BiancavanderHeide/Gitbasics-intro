@@ -1,5 +1,5 @@
-# readme voor Gitbasics-intro
-dit is een readme file voor de repo git-basics. Ik gebruik deze om te leren hoe Git werkt.
+# Readme voor Gitbasics-intro
+Dit is een readme file voor de repo git-basics. Ik gebruik deze om te leren hoe Git werkt.
 
-## dit is een kop
+## Dit is een kop
 Dit is een readme file voor de repo git-basics. Ik gebruik deze om te leren hoe Git werkt.
